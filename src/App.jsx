@@ -1,7 +1,6 @@
 import {Hero, CustomerReview,Footer,SuperQuality,SpecialOffer,Services,Subcribe,PopularProduct} from './index'
 import Nav from './components/Nav';
 
-
 const App = () => {
   return (
     <main className="relative">
